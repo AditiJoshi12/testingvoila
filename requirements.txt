@@ -3,5 +3,5 @@ numpy
 seaborn
 matplotlib
 termcolors
-warnings
 pprint
+voila
